@@ -1,4 +1,4 @@
-module easycore
+module github.com/blocktransaction/easycore
 
 go 1.22.2
 

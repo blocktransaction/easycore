@@ -23,6 +23,6 @@ go.work.sum
 
 # env file
 .env
-.lh
-.vscode
-.history
+.lh/
+.vscode/
+.history/

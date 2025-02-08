@@ -1,8 +1,8 @@
 package jwt
 
 import (
-	"easycore/crypto/aes"
-	"easycore/xtime"
+	"github.com/blocktransaction/easycore/crypto/aes"
+	"github.com/blocktransaction/easycore/xtime"
 	"errors"
 	"fmt"
 	"time"
