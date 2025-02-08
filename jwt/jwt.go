@@ -1,12 +1,12 @@
 package jwt
 
 import (
+	"easycore/crypto/aes"
+	"easycore/xtime"
 	"errors"
 	"fmt"
 	"time"
 
-	"github.com/blocktransaction/core/crypto/aes"
-	"github.com/blocktransaction/core/xtime"
 	"github.com/golang-jwt/jwt/v5"
 )
 
